@@ -1,0 +1,8 @@
+path: 'E:/TestForRotating/'
+train: E:/TestForRotating/Dataset640/images
+val: E:/TestForRotating/Dataset640/images
+
+
+nc: 1
+
+names: ['insect']
